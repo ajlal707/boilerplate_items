@@ -1,0 +1,30 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "ajlalkhan7890",
+    "database": "taiyakie",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": "abc123-1",
+    "database": "taiyakie",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production1": {
+    "username": "mspos",
+    "password": "Maghf123-11",
+    "database": "mspos",
+    "host": "103.215.139.76",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Maghf123-1",
+    "database": "mspos",
+    "host": "139.59.226.85",
+    "dialect": "mysql"
+  }
+}
